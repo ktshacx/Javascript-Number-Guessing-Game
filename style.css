@@ -23,7 +23,7 @@
     width: 100%;
     height: 40px;
     font-size: 17px;
-    background-color: #c534ff;
+    background-color: #57eba3;
     outline: none;
     border: none;
     margin-top: 10px;
@@ -33,7 +33,7 @@
 }
 
 .container .btn:hover {
-    background-color: #3456ff;
+    background-color: #28293d;
 }
 
 input {
